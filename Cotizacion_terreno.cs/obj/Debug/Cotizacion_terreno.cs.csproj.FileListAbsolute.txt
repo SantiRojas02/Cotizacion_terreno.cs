@@ -1,0 +1,5 @@
+D:\Facultad\Programacion\Act 1 c#\Cotizacion_terreno.cs\Cotizacion_terreno.cs\bin\Debug\Cotizacion_terreno.cs.exe.config
+D:\Facultad\Programacion\Act 1 c#\Cotizacion_terreno.cs\Cotizacion_terreno.cs\bin\Debug\Cotizacion_terreno.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Cotizacion_terreno.cs\Cotizacion_terreno.cs\bin\Debug\Cotizacion_terreno.cs.pdb
+D:\Facultad\Programacion\Act 1 c#\Cotizacion_terreno.cs\Cotizacion_terreno.cs\obj\Debug\Cotizacion_terreno.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Cotizacion_terreno.cs\Cotizacion_terreno.cs\obj\Debug\Cotizacion_terreno.cs.pdb
